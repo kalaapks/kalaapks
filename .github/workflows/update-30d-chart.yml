@@ -1,0 +1,38 @@
+name: Update 30-Day Contribution Chart
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # Runs daily (00:00 IST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests matplotlib numpy scipy
+
+      - name: Generate 30-day chart
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: kalaapks
+        run: python scripts/plot_30d.py
+
+      - name: Commit updated chart
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/last_30_days.png
+          git diff --staged --quiet || git commit -m "chore: update 30-day contribution chart"
+          git push
