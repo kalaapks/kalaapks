@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.sh%2Fkalaapks.github.io%2F.json%3Fstyle%3Dflat-square%26label%3Dprofile%2520views%26color%3D2b3137)](https://hits.sh/kalaapks.github.io/)
 [![CV](https://img.shields.io/badge/CV-PDF-1f2328?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/kalaapks/kalaapks/blob/main/CV.pdf)
 [![Website](https://img.shields.io/badge/Website-kalaapks.github.io-0f172a?style=flat-square&logo=googlechrome&logoColor=white)](https://kalaapks.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kalaap.ks@gmail.com)
@@ -9,6 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_kalaap/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_kalaap/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/kalaap_)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kalaapks&label=profile+views&color=2b3137&style=flat-square)
 
 </div>
 
@@ -25,7 +26,7 @@
 
 ## 🧠 About
 
-Trained in mathematics with a focus on **Stochastic Calculus, Statistics, and Scientific Computing**, applying rigorous theory to financial and time-series problems. My work emphasizes mathematical depth paired with visual systems that make abstract probabilistic structures intuitive.
+I'm trained in mathematics with interest in **Stochastic calculus, Statistics and Computing**. It is rooted in mathematical rigor with a special focus on building visual systems that make complex abstract mathematical ideas intuitive.
 
 Targeting roles in **Quantitative Research and Machine Learning**.
 
@@ -62,7 +63,7 @@ Visualizing ARMA processes in 2D or 3D in a single line of code, and diagnosing 
 
 ### 2. `radonika` · [Repository](https://github.com/kalaapks/radonika)
 
-Visualizing the probability law of stochastic processes along with Radon–Nikodym derivatives and changes of measure.
+Visualizing the probability law of stochastic processes along with the geometry behind abstract notions of Radon–Nikodym derivatives and changes of measure.
 
 <p align="center">
   <img src="images/spiralOU(plasma+viridis).gif" alt="Spiral Ornstein-Uhlenbeck stochastic process" width="100%"><br>
