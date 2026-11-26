@@ -1,9 +1,9 @@
 <div align="center">
 
-[![CV](https://img.shields.io/badge/CV-PDF-1f2328?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/kalaapks/kalaapks/blob/main/CV.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-1f2328?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/kalaapks/kalaapks/blob/main/Docs/Kalaap_Sadhu_CVmm.pdf)
 [![Website](https://img.shields.io/badge/Website-kalaapks.github.io-0f172a?style=flat-square&logo=googlechrome&logoColor=white)](https://kalaapks.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kalaap.ks@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalaapks/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_kalaap/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_kalaap/)
@@ -46,7 +46,7 @@ Targeting roles in **Quantitative Research and Machine Learning**.
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Featured Projects 
 
 ### 1. `lagshape` · [Repository](https://github.com/kalaapks/lagshape)
 
@@ -125,4 +125,4 @@ Visualizing the probability law of stochastic processes along with the geometry 
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kalaap.ks@gmail.com)
 [![Website](https://img.shields.io/badge/Website-111111?style=flat-square&logo=safari&logoColor=white)](https://kalaapks.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalaapks/)
